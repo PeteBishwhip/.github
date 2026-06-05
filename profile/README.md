@@ -19,7 +19,7 @@ Welcome to my GitHub profile — I build, learn, and ship useful things.
   <img src="https://streak-stats.demolab.com?user=PeteBishwhip&theme=tokyonight&hide_border=true" alt="Pete's GitHub streak" />
 </p>
 <p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PeteBishwhip&theme=tokyo-night&hide_border=true" alt="Pete's contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PeteBishwhip&theme=tokyonight&hide_border=true" alt="Pete's contribution graph" />
 </p>
 
 ## 🧠 Most used languages
