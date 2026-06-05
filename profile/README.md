@@ -28,7 +28,7 @@ Welcome to my GitHub profile — I build, learn, and ship useful things.
 </p>
 
 ## 🌟 Notable projects
-- [LaraDocs](https://laradocs.dev) — Documentation platform for Laravel projects ([repo](https://github.com/PeteBishwhip/laradocs)).
+- [LaraDocs](https://laradocs.dev) — Documentation platform for Laravel projects ([repo](https://github.com/PeteBishwhip/laradocs))
 
 ---
 Always building something new.
