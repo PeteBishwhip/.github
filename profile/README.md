@@ -6,7 +6,7 @@
 
 Welcome to my GitHub profile — I build, learn, and ship useful things.
 
-## 🚀 About me
+## 🚀 About Me
 - 🛠️ I use this space to share projects and experiments.
 - 📚 I’m always learning and improving.
 - 💡 I enjoy building practical tools and trying new ideas.
